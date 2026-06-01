@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# Mac system junk files
+.DS_Store
+
+# Local editor settings
+.vscode/
